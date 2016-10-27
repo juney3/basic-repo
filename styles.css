@@ -1,0 +1,27 @@
+/* Reset CSS */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper{
+	width: 900px;
+	font-family: helvetica, arial, sans-serif;
+}
+
+#main{
+	width: 600px;
+	margin: 0 auto;
+}
+
+h1{
+	color: blue;
+	font-style: italic;
+	font-size: 2em;
+	margin: 20px auto;
+}
+
+p{
+	margin-bottom: 14px;
+}
