@@ -25,3 +25,7 @@ h1{
 p{
 	margin-bottom: 14px;
 }
+
+h6{
+	font-style: italic;
+}
